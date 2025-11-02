@@ -1,3 +1,5 @@
 print("hello from file1") 
-print("new line from person2") 
-print("conflict line from person2 (bottom)") 
+print("change from person3 (top)") 
+print("conflict line from personal1 (middle)")
+print("conflict line from person2 (bottom)")  
+
